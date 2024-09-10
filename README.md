@@ -59,3 +59,11 @@ To get started with this project locally, follow these steps:
   ```bash
   cd shopping-cart
 ```
+## 📋 Usage
+
+1. **Add Items**: Click on the `Add to Cart` button on the products to add them to your cart.
+2. **Update Quantities**: Use the up/down arrows next to each product in the cart to adjust quantities.
+3. **Remove Items**: Click the trash icon to remove an item from your cart.
+4. **Clear Cart**: Use the `Clear Cart` button to remove all items.
+
+ذ
