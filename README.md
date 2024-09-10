@@ -55,8 +55,7 @@ To get started with this project locally, follow these steps:
    git clone https://github.com/amirAliFeizi/shopping-cart.git
    ```
    - **Navigate to the project directory:**
-
-  ```bash
+```bash
   cd shopping-cart
 ```
 ## 📋 Usage
@@ -65,5 +64,66 @@ To get started with this project locally, follow these steps:
 2. **Update Quantities**: Use the up/down arrows next to each product in the cart to adjust quantities.
 3. **Remove Items**: Click the trash icon to remove an item from your cart.
 4. **Clear Cart**: Use the `Clear Cart` button to remove all items.
+
+ ## 👨‍💻 Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. **Fork the project.**
+2. **Create your feature branch:**  
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. **Commit your changes:**
+
+```bash
+git commit -m 'Add some AmazingFeature'
+```
+4. **Push to the branch:**
+
+   ```bash
+   git push origin feature/AmazingFeature
+  ```
+5. **Open a pull request.**
+
+   ```vbnet
+   ' Let me know if there's anything else you'd like to adjust!
+  ```
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=amirAliFeizi&theme=github" alt="Contribution Graph"/>
+</p>
+## 💬 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/amirAliFeizi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-amirAliFeizi-181717?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="https://t.me/frontify" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://www.instagram.com/frontify.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@frontify.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@amirali_feizi" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-@amirali_feizi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+</p>
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+## 🌟 Key Features:
+
+- **Badges and Icons**: Enhance the visual appeal and provide quick insights into the project's status and features.
+- **Installation Instructions**: Easy-to-follow steps to set up and run the project locally.
+- **Preview Section**: Visual representation of the project's functionality and design.
+- **Contribution Graph**: Displays your GitHub activity and engagement with the project.
+- **Connect Section**: Showcases your social media profiles with clickable badges for easy access.
+
+
+<p align="center">Made with ❤️ by AmirAli Feizi</p>
 
 ذ
