@@ -53,3 +53,9 @@ To get started with this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/amirAliFeizi/shopping-cart.git
+   ```
+   - **Navigate to the project directory:**
+
+  ```bash
+  cd shopping-cart
+```
