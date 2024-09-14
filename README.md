@@ -36,3 +36,45 @@ cd shopping-cart
 ### Open the `index.html` file in your browser
 
 You can simply double-click on the `index.html` file or use a local server such as [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) if you prefer.
+## 📂 Project Structure
+
+```bash
+shopping-cart/
+├── css/
+│   └── styles.css       # Styles for the project
+├── js/
+│   └── app.js           # Main JavaScript logic for the cart
+├── images/
+│   └── product.png      # Product images used in the UI
+├── index.html           # Main HTML file
+└── README.md            # This file
+```
+## 🛠️ Technologies Used
+
+- **HTML5**: Structuring the layout.
+- **CSS3**: Styling the application.
+- **JavaScript**: Handling all interactions and cart functionality.
+- **LocalStorage**: Persisting cart data between page reloads.
+## 🎯 How to Use
+
+1. Browse through the product list.
+2. Click the **Add to Cart** button to add items to your cart.
+3. Open the cart by clicking on the **Cart Icon**.
+4. Increase or decrease the quantity of any item using the arrows next to it.
+5. Remove products by clicking on the **trash icon**.
+6. When you are done shopping, clear the cart or close the modal.
+## 📋 To-Do
+
+- [ ] Add product filtering by category.
+- [ ] Integrate with a backend API for real-time product data.
+- [ ] Add user authentication for personalized carts.
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/your-username/shopping-cart/issues) if you'd like to contribute.
+
+1. Fork the repo and create your branch:
+   
+   ```bash
+   git checkout -b feature/your-feature
+   ```
