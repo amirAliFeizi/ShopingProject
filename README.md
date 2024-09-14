@@ -33,3 +33,6 @@ To run this project locally, follow the steps below:
 ```bash
 cd shopping-cart
 ```
+### Open the `index.html` file in your browser
+
+You can simply double-click on the `index.html` file or use a local server such as [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) if you prefer.
