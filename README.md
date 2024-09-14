@@ -16,6 +16,9 @@ A sleek and fully functional shopping cart system built with pure JavaScript. Th
 ![Cart Modal](./images/pic1.png)
 ![ Cart ](./images/pic2.png)
 
+## 🚀 Demo
+
+Check out the [Live Demo](https://amiralifeizi.github.io/ShoppingProject/) of the shopping cart in action.
 
 ## ⚙️ Installation & Setup
 
