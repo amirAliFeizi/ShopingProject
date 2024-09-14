@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" dir="rtl">
+    <head>
+        <meta charset="utf-8" />
+        <title>Product Card</title>
+        <link rel="stylesheet" href="./css/style.css" />
+        <script src="https://kit.fontawesome.com/78989d594c.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="wrapper">
+            <div class="cart-nav">
+                <div class="icon">
+                    <i class="fas fa-shopping-cart"></i>
+                    <span>سبد خرید</span>
+                </div>
+                <div class="item-count">0</div>
+            </div>
+            <div class="card">
+                <img src="images/headphone.png" alt="" />
+                <div class="content">
+                    <div class="row">
+                        <div class="details">
+                            <span>هدفون</span>
+                            <p>هدفون تاشو آرتیکس با میکروفون، هدفون استریو فشرده</p>
+                        </div>
+                        <div class="price">30</div>
+                    </div>
+                    <div class="buttons">
+                        <button data-id="1" class="cart-btn">خرید</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="images/watch.png" alt="" />
+                <div class="content">
+                    <div class="row">
+                        <div class="details">
+                            <span>اپل واچ</span>
+                            <p>اپل واچ پریمیوم اصل</p>
+                        </div>
+                        <div class="price">80</div>
+                    </div>
+                    <div class="buttons">
+                        <button data-id="2" class="cart-btn">خرید</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <img src="images/airpods.png" alt="" />
+                <div class="content">
+                    <div class="row">
+                        <div class="details">
+                            <span>ایرپاد</span>
+                            <p>ایرپاد پریمیوم مشکی</p>
+                        </div>
+                        <div class="price">50</div>
+                    </div>
+                    <div class="buttons">
+                        <button data-id="3" class="cart-btn">خرید</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <section>
+            <div class="backdrop"></div>
+            <div class="modal">
+                <h3 class="modal-title">سبد خرید شما</h3>
+
+                <div class="modal-content">
+                    <div class="product-container"></div>
+                </div>
+                <hr />
+
+                <div class="modal-footer">
+                    <span class="cart-total">جمع قیمت محصولات: <strong>$100</strong></span>
+                    <button class="btn clear-cart">حذف کامل</button>
+                    <button class="btn card-item-confirm">تایید و پرداخت</button>
+                </div>
+            </div>
+        </section>
+
+        <div class="toast" id="emptyCartToast">
+         
+            <div class="toast-content">سبد خرید شما خالی است!</div>
+        </div>
+
+        <script src="./js/script.js"></script>
+    </body>
+</html>
