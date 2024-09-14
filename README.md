@@ -78,3 +78,24 @@ Feel free to check the [issues page](https://github.com/your-username/shopping-c
    ```bash
    git checkout -b feature/your-feature
    ```
+    2. Commit your changes:
+
+   ```bash
+   git commit -m "Add new feature"
+   ```
+   3. Push to the branch:
+
+   ```bash
+   git push origin feature/your-feature
+   ```
+   4. Submit a pull request.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/amirAliFeizi/">amirAliFeizi</a>
+</p>
+
+
