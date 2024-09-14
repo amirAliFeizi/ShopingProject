@@ -13,8 +13,8 @@ A sleek and fully functional shopping cart system built with pure JavaScript. Th
 
 ## 📸 Screenshots
 
-![Cart Modal](./screenshots/cart-modal.png)
-![Empty Cart Notification](./screenshots/empty-cart-toast.png)
+![Cart Modal](./images/pic1.png)
+![ Cart ](./images/pic2.png)
 
 ## 🚀 Demo
 
