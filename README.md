@@ -1,55 +1,30 @@
-<h1 align="center">🛒 Shopping Cart System</h1>
+# 🛒 Shopping Cart Application
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Project Status Badge"/>
-</p>
+A sleek and fully functional shopping cart system built with pure JavaScript. This project allows users to add products to a cart, adjust product quantities, view the cart total, and remove items—all while persisting the data using `localStorage`.
 
-<p align="center">
-  <img src="https://img.shields.io/github/repo-size/amirAliFeizi/shopping-cart" alt="Repo Size Badge"/>
-  <img src="https://img.shields.io/github/issues/amirAliFeizi/shopping-cart" alt="Issues Badge"/>
-  <img src="https://img.shields.io/github/forks/amirAliFeizi/shopping-cart" alt="Forks Badge"/>
-  <img src="https://img.shields.io/github/stars/amirAliFeizi/shopping-cart" alt="Stars Badge"/>
-  <img src="https://img.shields.io/github/license/amirAliFeizi/shopping-cart" alt="License Badge"/>
-</p>
+## 🌟 Features
 
-<p align="center">
-  A dynamic and interactive Shopping Cart system built with vanilla JavaScript, HTML, and CSS. Add, remove, and update items with a modern UI and local storage integration for a seamless shopping experience. Perfect for e-commerce prototypes and learning purposes!
-</p>
+- **Add to Cart**: Easily add products to the cart and automatically calculate the total.
+- **Quantity Control**: Increase or decrease the quantity of each product directly from the cart modal.
+- **LocalStorage Integration**: All cart data is stored locally, so it persists even after refreshing the page.
+- **Dynamic Price Calculation**: Total cart value is calculated dynamically based on the quantity and price of items.
+- **Responsive Design**: Optimized for both desktop and mobile views.
+- **Interactive UI**: With a smooth modal and toast notification system.
 
----
+## 📸 Screenshots
 
-## 🚀 Features
+![Cart Modal](./screenshots/cart-modal.png)
+![Empty Cart Notification](./screenshots/empty-cart-toast.png)
 
-- **Add and Remove Products**: Easily add and remove items from the cart with intuitive buttons.
-- **Quantity Management**: Increase or decrease product quantities directly within the cart.
-- **Local Storage Integration**: Items and quantities are saved in the browser’s local storage, ensuring your cart persists between sessions.
-- **Responsive Modal**: A sleek, responsive modal to review cart contents.
-- **Toast Notifications**: User-friendly toast notifications to alert empty cart actions.
+## 🚀 Demo
 
-## 📸 Preview
+Check out the [Live Demo](https://your-live-demo-link.com) of the shopping cart in action.
 
-<p align="center">
-  <img src="https://github.com/amirAliFeizi/shopping-cart/blob/main/demo.gif" alt="Shopping Cart Demo" width="700px"/>
-</p>
+## ⚙️ Installation & Setup
 
----
+To run this project locally, follow the steps below:
 
-## 🛠️ Technologies Used
-
-- **JavaScript (ES6+)**: Handles the cart logic and local storage.
-- **HTML5 & CSS3**: Markup and styling for the user interface.
-- **Font Awesome**: For icons used within the cart and navigation.
-
----
-
-## 📦 Installation
-
-To get started with this project locally, follow these steps:
-
-1. **Clone the repository:**
-
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/amirAliFeizi/shopping-cart.git
+   git clone https://github.com/your-username/shopping-cart.git
+   ```
