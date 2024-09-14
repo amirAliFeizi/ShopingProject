@@ -24,7 +24,12 @@ Check out the [Live Demo](https://your-live-demo-link.com) of the shopping cart 
 
 To run this project locally, follow the steps below:
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/shopping-cart.git
    ```
+### Navigate to the project directory
+
+```bash
+cd shopping-cart
+```
